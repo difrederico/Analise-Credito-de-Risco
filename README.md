@@ -1,6 +1,6 @@
 # Projeto de Análise de Risco de Crédito Aprimorada por IA
 
-### `Autor: [Frederico Lemes Rosa]`
+### `Autor: Frederico Lemes Rosa`
 
 ---
 
@@ -42,4 +42,4 @@ Se você deseja executar a análise, as instruções de configuração do ambien
 
 ---
 
-### `[https://www.linkedin.com/in/frederico-l-rosa/]`
+### `https://www.linkedin.com/in/frederico-l-rosa/`
