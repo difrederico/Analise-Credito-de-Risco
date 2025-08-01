@@ -1,5 +1,4 @@
-# Projeto de Análise de Risco de Crédito 
-
+# Análise de Risco de Crédito: Exploração e Insights de Dados
 ### `Autor: Frederico Lemes Rosa`
 
 ---
