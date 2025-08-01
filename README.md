@@ -1,4 +1,4 @@
-# Projeto de Análise de Risco de Crédito Aprimorada por IA
+# Projeto de Análise de Risco de Crédito 
 
 ### `Autor: Frederico Lemes Rosa`
 
@@ -32,7 +32,7 @@ A análise exploratória revelou insights cruciais sobre o perfil de clientes e 
 
 ## Visualizando a Análise Detalhada
 
-Para uma análise mais aprofundada, com todos os gráficos, estatísticas e o código-fonte, por favor, explore o notebook Jupyter: `[Analise_Dados_Risco_Credito.ipynb](Analise_Dados_Risco_Credito.ipynb)`
+Para uma análise mais aprofundada, com todos os gráficos, estatísticas e o código-fonte, por favor, explore o notebook Jupyter: `(Analise_Dados_Risco_Credito.ipynb)`
 
 ---
 
